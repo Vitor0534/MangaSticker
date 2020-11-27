@@ -47,17 +47,25 @@ About Tool Options:
 Keyboard shortcuts:
 
 Less manga side Opacity  -> t
+
 manga side total opacity -> r
 
 Less circuit Opacity     -> w
+
 Total circuit opacity    -> q
+
 
 About the element being dragged:
 
+
 Rotate 90        -> v
+
 Horizontal Mirro -> o
+
 Vertical mirro   -> p
+
 Scale +2x        -> l
+
 Scale -2x        -> ç
 
 About the selected element of the editing area
@@ -87,10 +95,15 @@ Delete element    -> 0
 The other functions are accessed by buttons on the interface:
 
 -Arras element of the editing area;
+
 -Select element for editing;
+
 -Grid Graduated;
+
 -XY lines;
+
 -toTop and toDown are in the toolbox (Blue toolbox)
+
 
 
 

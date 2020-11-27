@@ -11,7 +11,7 @@ How to run the program:
 
             -The program will not run properly at a lower resolution
             
-            -The program was tested only on Windows 10 64bit, however, it is expected that the
+            -The program was tested only on Windows 10 64bits, however, it is expected that the
              MangaSticker works on any OS with processing installed;
              
 4- Open the code with processing and click on run

@@ -41,7 +41,6 @@ In the tool there are sample projects, which are the test cases, they can be use
 PDF ready-to-print projects were added
 
 
-
 About Tool Options:
 
 Keyboard shortcuts:
@@ -56,7 +55,6 @@ Total circuit opacity    -> q
 
 
 About the element being dragged:
-
 
 Rotate 90        -> v
 
@@ -89,7 +87,6 @@ Scale XY-         -> 8
 Rotate 90         -> 9
 
 Delete element    -> 0
-
 
 
 The other functions are accessed by buttons on the interface:

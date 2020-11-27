@@ -58,20 +58,30 @@ Rotate 90        -> v
 Horizontal Mirro -> o
 Vertical mirro   -> p
 Scale +2x        -> l
-Scale -2x        -> ็
+Scale -2x        -> รง
 
 About the selected element of the editing area
 
 Scale X +         -> 1
+
 Scale X-          -> 2
+
 Scale Y+          -> 3
+
 Scale Y-          -> 4
+
 Vertical mirro    -> 5
+
 Horizontal mirro  -> 5
+
 Scale XY+         -> 7
+
 Scale XY-         -> 8
+
 Rotate 90         -> 9
+
 Delete element    -> 0
+
 
 
 The other functions are accessed by buttons on the interface:

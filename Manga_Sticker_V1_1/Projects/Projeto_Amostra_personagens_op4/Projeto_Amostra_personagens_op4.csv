@@ -1,0 +1,85 @@
+Nome_Figura_Ed,Nome_Figura_original,x,y,NomeObj,Tipo
+C;0,tape_horizontalop2.png,3,3,tape_horizontalop2.png,C
+C;1,tape_horizontalop2.png,172,3,tape_horizontalop2.png,C
+C;2,tape_horizontalop2.png,398,3,tape_horizontalop2.png,C
+C;3,tape_horizontalop2.png,567,3,tape_horizontalop2.png,C
+C;4,tape_horizontalop2.png,292,3,tape_horizontalop2.png,C
+C;5,tape_horizontalop2.png,735,3,tape_horizontalop2.png,C
+C;6,tape_horizontalop2.png,0,90,tape_horizontalop2.png,C
+C;7,LED_Default_1.png,202,24,LED_Default_1.png,C
+C;8,Tape_Ink_1.png,657,30,Tape_Ink_1.png,C
+C;9,LED_Default_1.png,7,14,LED_Default_1.png,C
+C;10,Tape_Ink_1.png,657,100,Tape_Ink_1.png,C
+C;11,Tape_Ink_3.png,392,88,Tape_Ink_3.png,C
+C;12,LED_Default_1.png,344,13,LED_Default_1.png,C
+C;13,Tape_Ink_3.png,459,155,Tape_Ink_3.png,C
+C;14,Tape_Ink_3.png,486,183,Tape_Ink_3.png,C
+C;15,tape_horizontalop2.png,555,248,tape_horizontalop2.png,C
+C;16,tape_horizontalop2.png,1009,25,tape_horizontalop2.png,C
+C;17,Tape_Ink_2.png,696,184,Tape_Ink_2.png,C
+C;18,Tape_Ink_2.png,723,157,Tape_Ink_2.png,C
+C;19,tape_horizontalop2.png,791,159,tape_horizontalop2.png,C
+C;20,LED_Default_1.png,620,175,LED_Default_1.png,C
+C;21,tape_horizontalop2.png,872,159,tape_horizontalop2.png,C
+C;22,tape_horizontalop2.png,925,159,tape_horizontalop2.png,C
+C;23,Tape_Ink_3.png,993,158,Tape_Ink_3.png,C
+C;24,tape_horizontalop2.png,1059,226,tape_horizontalop2.png,C
+C;25,tape_horizontalop2.png,1059,309,tape_horizontalop2.png,C
+C;26,LED_Default_1.png,973,87,LED_Default_1.png,C
+C;27,tape_horizontalop2.png,1059,316,tape_horizontalop2.png,C
+C;28,tape_horizontalop2.png,1062,390,tape_horizontalop2.png,C
+C;29,Tape_Ink_1.png,1145,236,Tape_Ink_1.png,C
+C;30,Tape_Ink_1.png,1144,143,Tape_Ink_1.png,C
+C;31,Tape_Ink_1.png,1144,59,Tape_Ink_1.png,C
+C;32,LED_Default_1.png,1106,316,LED_Default_1.png,C
+C;33,Tape_Ink_1.png,1144,11,Tape_Ink_1.png,C
+C;34,tape_horizontalop2.png,1,719,tape_horizontalop2.png,C
+C;35,tape_horizontalop2.png,1,811,tape_horizontalop2.png,C
+C;36,tape_horizontalop2.png,2,830,tape_horizontalop2.png,C
+C;37,tape_horizontalop2.png,2,851,tape_horizontalop2.png,C
+C;38,tape_horizontalop2.png,49,791,tape_horizontalop2.png,C
+C;39,tape_horizontalop2.png,82,830,tape_horizontalop2.png,C
+C;40,LED_Default_1.png,30,714,LED_Default_1.png,C
+C;41,tape_horizontalop2.png,154,830,tape_horizontalop2.png,C
+C;42,Tape_Ink_1.png,531,779,Tape_Ink_1.png,C
+C;43,LED_Default_1.png,491,708,LED_Default_1.png,C
+C;44,Tape_Ink_1.png,700,782,Tape_Ink_1.png,C
+C;45,Tape_Ink_1.png,848,780,Tape_Ink_1.png,C
+C;46,Tape_Ink_1.png,1019,778,Tape_Ink_1.png,C
+C;47,LED_Default_1.png,978,709,LED_Default_1.png,C
+C;48,LED_Default_1.png,658,707,LED_Default_1.png,C
+C;49,LED_Default_1.png,807,707,LED_Default_1.png,C
+C;50,Tape_Ink_1.png,1170,781,Tape_Ink_1.png,C
+C;51,Tape_Ink_1.png,230,786,Tape_Ink_1.png,C
+C;52,LED_Default_1.png,191,706,LED_Default_1.png,C
+C;53,LED_Default_1.png,1129,705,LED_Default_1.png,C
+C;54,Tape_Ink_1.png,368,806,Tape_Ink_1.png,C
+C;55,Tape_Ink_1.png,368,785,Tape_Ink_1.png,C
+C;56,LED_Default_1.png,329,703,LED_Default_1.png,C
+F;0,1_Roberto_.png,764,168,1_Roberto_.png,F
+F;1,1_A_Gustavo_Sem_Fundo (1).png,962,320,1_A_Gustavo_Sem_Fundo (1).png,F
+F;2,"1_Rioka,_speaking_TxR.png",272,186,"1_Rioka,_speaking_TxR.png",F
+F;3,1_Takume_TxR.png,467,202,1_Takume_TxR.png,F
+F;4,1_B_Sara_Sem_Fundo (2).png,555,331,1_B_Sara_Sem_Fundo (2).png,F
+F;5,1_HinaIA_2.png,355,285,1_HinaIA_2.png,F
+F;6,1_Mia_TxR.png,103,190,1_Mia_TxR.png,F
+F;7,1_Larissa.png,214,380,1_Larissa.png,F
+F;8,1_Marilha.png,76,378,1_Marilha.png,F
+F;9,1_Mia_Chib_TxR.png,1108,385,1_Mia_Chib_TxR.png,F
+F;10,Z_emojicon (1).png,948,66,Z_emojicon (1).png,F
+F;11,Z_emojicon (2).png,14,34,Z_emojicon (2).png,F
+F;12,Z_emojicon (3).png,180,11,Z_emojicon (3).png,F
+F;13,Z_emojicon (4).png,380,49,Z_emojicon (4).png,F
+F;14,Z_emojicon (5).png,1136,353,Z_emojicon (5).png,F
+F;15,Z_emojicon (6).png,633,199,Z_emojicon (6).png,F
+F;16,R10.jpg,5,723,R10.jpg,F
+F;17,R100.jpg,161,722,R100.jpg,F
+F;18,R2.jpg,315,726,R2.jpg,F
+F;19,R20.jpg,463,727,R20.jpg,F
+F;20,R5.jpg,624,729,R5.jpg,F
+F;21,R50.jpg,781,733,R50.jpg,F
+F;22,R20.jpg,944,731,R20.jpg,F
+F;23,R2.jpg,1102,728,R2.jpg,F
+F;24,Y_dog_5.png,928,566,Y_dog_5.png,F
+F;25,Y_dog_6.png,27,583,Y_dog_6.png,F
+F;26,Y_dog_8.png,706,609,Y_dog_8.png,F

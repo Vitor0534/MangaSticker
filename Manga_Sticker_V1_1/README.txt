@@ -95,7 +95,7 @@ Delete element    -> 0
 
 The other functions are accessed by buttons on the interface:
 
--Arras element of the editing area;
+-Drag element of the editing area;
 
 -Select element for editing;
 

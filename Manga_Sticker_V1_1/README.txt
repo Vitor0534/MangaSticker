@@ -53,6 +53,10 @@ Less circuit Opacity     -> w
 
 Total circuit opacity    -> q
 
+Undo                     -> z
+
+Redo                     -> y
+
 
 About the element being dragged:
 

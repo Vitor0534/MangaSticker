@@ -29,16 +29,14 @@ How to run the program:
 
 How to use:
 
-The tool consists of two main elements, the editing area and the toolbox:
+The tool consists of two main elements, the editing area and the toolboxes:
               * Editing area: consists of two layers, one for the circuit and the other for the manga
-              * Toolbox: the toolboxes are used to select the figure and circuit components, they also serve
+              * Toolboxes: the toolboxes are used to select the figures and circuit stickers components, they also serve
                          for selecting editing tools;
-To make the modeling process it is enough to select figures or circuit components in the toobox
-and placed in the editing area. The program separates the layers automatically. Characters and settings can be used
-MangaSticker standards, or new elements can be added on the selection screen by clicking on add picture
+To make the modeling process, select figures or circuit components in the tooboxes
+and placed in the editing area. The program separates the layers automatically.  standard MangaSticker characters can be used, or new elements can be added on the selection screen by clicking add digura
 
-In the tool there are sample projects, which are the test cases, they can be used as reference and training. also
-PDF ready-to-print projects were added
+Examples of projects have been added to the tool, which can be used as a reference or training. Have also been added Print-ready PDF projects
 
 
 About Tool Options:

@@ -34,9 +34,11 @@ The tool consists of two main elements, the editing area and the toolboxes:
               * Toolboxes: the toolboxes are used to select the figures and circuit stickers components, they also serve
                          for selecting editing tools;
 To make the modeling process, select figures or circuit components in the tooboxes
-and placed in the editing area. The program separates the layers automatically.  standard MangaSticker characters can be used, or new elements can be added on the selection screen by clicking add digura
+and placed in the editing area. The program separates the layers automatically.  standard MangaSticker characters can be used, 
+or new elements can be added on the selection screen by clicking add digura
 
-Examples of projects have been added to the tool, which can be used as a reference or training. Have also been added Print-ready PDF projects
+Examples of projects have been added to the tool, which can be used as a reference or training. 
+Have also been added Print-ready PDF projects
 
 
 About Tool Options:

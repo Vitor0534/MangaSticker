@@ -101,7 +101,7 @@ The other functions are accessed by buttons on the interface:
 
 -XY lines;
 
--toTop and toDown are in the toolbox (Blue toolbox)
+-toTop and toDown are in the toolbox (Blue toolbox), by clicking on the select element button 
 
 
 

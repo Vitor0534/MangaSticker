@@ -4,14 +4,14 @@ MangaSticker:
 
 This is a project created as a final course work, in the computer engineering course by PUC-GO
 
-MangaSticker is a tool for creating interactive manga by integrating circuit sticker with manga
+MangaSticker is a tool for creating interactive manga by integrating circuit sticker with manga.
 The purpose of the tool is to provide a modeling environment where you can view the manga and the circuit sticker
 concomitantly. Artifacts can be designed using the editing area and tools. The tool
 has the option to print interactive mangas on two A4 sheets, one for the manga side and the other
-for the circuit side. Once printed, the components must be positioned on the circuit sheet and that sheet
+for the circuit sticker side. Once printed, the components must be positioned on the circuit sticker sheet and that sheet
 is superimposed with the manga to generate the interactive manga.
 
-As standard, the tool brings some pre-modeled characters and elements of scenarios and inserted in the lists.
+As standard, the tool brings some pre-modeled characters and elements of scenarios.
 Simple circuit elements are also present, such as LEDs, conductive tape and PushButtons
 
 

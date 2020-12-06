@@ -14,6 +14,8 @@ How to run the program:
             -The program was tested only on Windows 10 64bits, however, it is expected that the
              MangaSticker works on any OS with processing installed;
              
-4- Open the code with processing and click on run
+4- install the "ControlP5" and "UiBooster" libraries
 
-5- Enjoy the tool :)
+5- Open the code with processing and click on run
+
+6- Enjoy the tool :)

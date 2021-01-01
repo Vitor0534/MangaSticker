@@ -1,4 +1,4 @@
-By Vitor de Almeida Silva, 2020
+By Vitor de Almeida Silva, PUC-GO_2020
 
 MangaSticker:
 
@@ -6,7 +6,7 @@ This is a project created as a final course work, in the computer engineering co
 
 MangaSticker is a tool for building interactive manga by integrating circuit sticker with manga.
 The purpose of the tool is to provide a modeling environment where you can view the manga and the circuit sticker
-concomitantly. Artifacts can be designed using the editing area and tools. The tool
+concomitantly. Artifacts can be modeled using the editing area and tools. The tool
 has the option to print interactive mangas on two A4 sheets, one for the manga side and the other
 for the circuit sticker side. Once printed, the components must be positioned on the circuit sticker sheet and that sheet
 is superimposed with the manga to generate the interactive manga.

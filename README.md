@@ -19,3 +19,11 @@ How to run the program:
 5- Open the code with processing and click on run
 
 6- Enjoy the tool :)
+
+
+
+
+The next Figure shows a screenshot of the MangaSticker software´s principal window with an example project opened
+
+![ScreenShot_Exemple_1](https://user-images.githubusercontent.com/75094095/124301744-99347180-db36-11eb-8a99-27ef2bd17769.jpg)
+
